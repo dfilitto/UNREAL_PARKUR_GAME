@@ -1,0 +1,8 @@
+Assets
+https://unrealengine.com/marketplace/en-US/product/unreal-engine-hour-of-code#
+Docs
+https://cdn2.unrealengine.com/getting-started-ue-hour-of-code-a9ba54249b3a.pdf
+https://cdn2.unrealengine.com/ue-build-your-first-3d-game-lesson-plan-eb6f0f07fa80.pdf
+https://cdn2.unrealengine.com/ue-build-your-first-3d-game-student-guide-fe7d1aa937ec.pdf
+https://cdn2.unrealengine.com/ue-build-your-first-3d-game-teacher-guide-74d36ed40c10.pdf
+https://www.unrealengine.com/en-US/lesson-plans/build-your-first-3d-game-learn-collision-detection-in-unreal-engine
